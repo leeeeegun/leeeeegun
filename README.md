@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20UI-GUN!&fontSize=60&fontAlignY=40&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=UIGUN,%20I'm%20WORLD!&fontSize=60&fontAlignY=40&animation=twinkling" alt="header"/>
 </p>
 
 <!-- 소개 -->
