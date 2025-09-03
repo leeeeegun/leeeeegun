@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ 기술 스택
 <div align="center">
 
 ### 🎨 Frontend  
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 나의 개발 방향성
+## 🚀 개발 방향성
 <div align="center">
 
 💡 저는 <strong>'왜?'</strong>라는 질문을 통해 기술의 본질을 파고드는 것을 중요하게 생각합니다.  
