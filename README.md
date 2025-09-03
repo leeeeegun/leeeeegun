@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20Eui-geon!&fontSize=60&fontAlignY=40&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20UI-GUN!&fontSize=60&fontAlignY=40&animation=twinkling" alt="header"/>
 </p>
 
 <!-- 소개 -->
@@ -22,33 +22,20 @@
 ## 🛠️ 기술 스택 (Tech Stack)
 <div align="center">
 
-### 🔹 Backend  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)  
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
-![QueryDSL](https://img.shields.io/badge/QueryDSL-4A5D45?style=for-the-badge)  
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="70"/>
+</p>
 
-### 🔹 Frontend  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs" height="70"/>
+</p>
 
-### 🔹 Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-
-### 🔹 DevOps & Tools  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### 🛠 Tools & Others  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" height="70"/>
+</p>
 
 </div>
 
@@ -95,13 +82,11 @@
 ---
 
 ## 🎉 Fun Zone
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4VrGNGYg7E3vC/giphy.gif" width="700"/>
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>  
-
-_"코드는 단순히 일이 아니라, 무언가를 만들어 내는 또 다른 언어입니다."_ ✨  
-
-</div>
+<p align="center"><i>"코드는 단순히 일이 아니라, 무언가를 만들어 내는 또 다른 언어입니다." ✨</i></p>
 
 ---
 
