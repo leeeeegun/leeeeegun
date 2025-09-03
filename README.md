@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <p align="center">
 <a href="https://github.com/leeeeegun">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D300%26section%3Dheader%26text%3DHello,%2520I%27m%2520Eui-geon!%26fontSize%3D70%26fontAlignY%3D38%26animation%3DfadeIn" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D300%26section%3Dheader%26text%3DHello,%2520I%27m%2520Eui-geon!%26fontSize%3D70%26fontAlignY%3D38%26animation%3DfadeIn" alt="Header Banner"/>
 </a>
 </p>
 
@@ -22,22 +22,34 @@
 <h4>Backend</h4>
 <p>
 <!-- 백엔드 -->
+<p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" alt="Spring Boot"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gradle-02303A%3Fstyle%3Dfor-the-badge%26logo%3Dgradle%26logoColor%3Dwhite" alt="Gradle"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Cloud-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring Cloud"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Security-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-security%26logoColor%3Dwhite" alt="Spring Security"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JPA-59666C%3Fstyle%3Dfor-the-badge%26logo%3Dhibernate%26logoColor%3Dwhite" alt="JPA"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/QueryDSL-4A5D45%3Fstyle%3Dfor-the-badge" alt="QueryDSL"/>
 </p>
 
 <h4>Frontend</h4>
-<p>
 <!-- 프론트엔드 -->
+<p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-4FC08D%3Fstyle%3Dfor-the-badge%26logo%3Dvue.js%26logoColor%3Dwhite" alt="Vue.js"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
 </p>
 
-<h4>Tools & Collaboration</h4>
+<h4>Database</h4>
+
+<h4>DevOps & Tools</h4>
+<!-- 데브옵스 및 도구 뱃지 -->
 <p>
-<!-- 개발 -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jenkins-D24939%3Fstyle%3Dfor-the-badge%26logo%3Djenkins%26logoColor%3Dwhite" alt="Jenkins"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
 </p>
@@ -58,10 +70,6 @@ MSA(마이크로서비스 아키텍처)와 같은 현대적인 개발 패턴을 
 </p>
 </div>
 
-
-
-<!-- GitHub 통계 -->
-
 📊 나의 GitHub 활동
 <div align="center">
 <p>
@@ -77,7 +85,5 @@ MSA(마이크로서비스 아키텍처)와 같은 현대적인 개발 패턴을 
 </div>
 
 <!-- 푸터 프로필의 배너 -->
-
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dfooter" />
-</p>
+<img src="
