@@ -24,12 +24,12 @@
 
 ### ⚙️ Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs" height="70"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,cpp" height="70"/>
 </p>
 
 ### 🎨 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="70"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" height="70"/>
 </p>
 
 ### 🛠 Tools & Others  
