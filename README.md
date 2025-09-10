@@ -22,20 +22,11 @@
 ## 🛠️ 기술 스택
 <div align="center">
 
-### ⚙️ Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,cpp" height="70"/>
-</p>
+<div align="center">
 
-### 🎨 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" height="70"/>
-</p>
-
-### 🛠 Tools & Others  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" height="70"/>
-</p>
+| Backend | Frontend & Mobile | DevOps & Tools |
+|---------|------------------|----------------|
+| <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,cpp" height="50"/> | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" height="50"/> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" height="50"/> |
 
 </div>
 
